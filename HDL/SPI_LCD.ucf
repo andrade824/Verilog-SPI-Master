@@ -1,0 +1,16 @@
+NET "clk" LOC="P38" ;
+NET "MISO" LOC="P136" ;
+NET "SCLK" LOC="P134" ;
+NET "MOSI" LOC="P139" ;
+NET "SS" LOC="P142" ;
+NET "clear" LOC="P94" ;
+
+NET "cols<0>"  LOC = "P3" ; 
+NET "cols<1>"  LOC = "P5" ; 
+NET "cols<2>"  LOC = "P7" ; 
+NET "cols<3>"  LOC = "P10" ; 
+
+NET "rows<0>"  LOC = "P2"  ; 
+NET "rows<1>"  LOC = "P4"  ; 
+NET "rows<2>"  LOC = "P6"  ; 
+NET "rows<3>"  LOC = "P9"  ; 
